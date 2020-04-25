@@ -125,8 +125,6 @@ val2017_bbox_results.json
 *.pth
 # ONNX models
 *.onnx
-# Weights&Biases
-wandb/
 
 #tar files
 *.tar
