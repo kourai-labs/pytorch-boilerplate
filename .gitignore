@@ -128,3 +128,6 @@ val2017_bbox_results.json
 
 #tar files
 *.tar
+
+#outputs log
+outputs/
