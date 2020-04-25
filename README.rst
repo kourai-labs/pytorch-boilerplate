@@ -20,6 +20,9 @@ Getting Started
 References
 ==========
 
-.. [hydra] Omry Yadan,:
+.. [hydra] Omry Yadan:
       A framework for elegantly configuring complex applications.
       Github, 2019, https://github.com/facebookresearch/hydra
+.. [wandb] Biewald, Lukas:
+      Experiment Tracking with Weights and Biases.
+      Software available from wandb.com, 2020, https://www.wandb.com
