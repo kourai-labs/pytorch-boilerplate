@@ -1,6 +1,4 @@
 
-**Status:** Current Status
-
 **************
 boilerplate-ml
 **************
