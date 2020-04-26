@@ -1,6 +1,4 @@
 
-**Status:** Current Status
-
 **************
 boilerplate-ml
 **************
@@ -18,3 +16,13 @@ Getting Started
     cd mnist
     git remote add origin https://github.com/kourai-research/mnist.git
     git push -u origin master
+
+References
+==========
+
+.. [hydra] Omry Yadan:
+      A framework for elegantly configuring complex applications.
+      Github, 2019, https://github.com/facebookresearch/hydra
+.. [wandb] Biewald, Lukas:
+      Experiment Tracking with Weights and Biases.
+      Software available from wandb.com, 2020, https://www.wandb.com
