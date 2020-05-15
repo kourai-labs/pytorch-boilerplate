@@ -1,13 +1,18 @@
 
-**************
-boilerplate-ml
-**************
+*******************
+pytorch-boilerplate
+*******************
 
 .. contents:: **Contents of this document**
    :depth: 2
 
 Getting Started
 ===============
+
+Clone the repository.
+*********************
+
+Example:
 
 .. code:: shell
 
@@ -16,6 +21,8 @@ Getting Started
     cd mnist
     git remote add origin https://github.com/kourai-research/mnist.git
     git push -u origin master
+
+
 
 References
 ==========

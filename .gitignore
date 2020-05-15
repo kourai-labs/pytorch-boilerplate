@@ -123,11 +123,15 @@ val2017_bbox_results.json
 
 # Pytorch checkpoints
 *.pth
+
 # ONNX models
 *.onnx
 
-#tar files
+# tar files
 *.tar
 
 #outputs log
 outputs/
+
+# Weights and Biases logs
+wandb/
